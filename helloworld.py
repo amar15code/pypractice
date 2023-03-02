@@ -12,7 +12,7 @@ y= float(3)
 if y == 3:
     print("y is 12 too!!!")
 
-myname = 'Amarnath'
+myname = 'Bob'
 print("My name is "+myname)
 
 mylaptop = "this is Amar's laptop"
@@ -21,8 +21,8 @@ print(mylaptop)
 xy = x*y
 print("xy:"+ str(xy)) 
 
-firstname="Amarnath"
-lastname="Dhanapalan"
+firstname="Bob"
+lastname="Vance"
 
 print("Fullname...."+firstname+" "+lastname)
 
